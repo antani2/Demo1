@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Demo1</string>
+    <string name="app_name">First Demo</string>
     <string name="hello_txt">Hello Android!</string>
     <string name="hello_world_land">Hello landscape world!</string>
     <string name="another_string">Here is a another sample text.</string>
